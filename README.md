@@ -232,6 +232,3 @@ Coming soon, QPM will allow for plugins to allow for modifications of additional
 QPM will also allow plugins to add commands as well.
 Literally not for a long time though.
 
-## Issues
-
-DM `Sc2ad#8836` on Discord or something, idk
